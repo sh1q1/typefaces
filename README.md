@@ -1,5 +1,5 @@
-# blde-bib-mono
-this is a a serifed monospace type, created to learn more about glyphs app and perhaps some scripting, as well as stylizing md files in Github.
+### blde-bib-mono
+this is a a serifed monospace type. It was created for myself to learn the glyphs app program and perhaps some scripting, as well as stylizing md files on Github.
 
 Beta 001-20220423 for testing
 
